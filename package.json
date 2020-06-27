@@ -1,0 +1,12 @@
+{
+  "id": "hey",
+  "name": "Hey.com",
+  "version": "1.0.0",
+  "description": "Hey.com email service",
+  "main": "index.js",
+  "author": "Pierre de Milly <pierre.de.milly@hey.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.hey.com"
+  }
+}
